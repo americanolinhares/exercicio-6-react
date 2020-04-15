@@ -6,7 +6,7 @@ export default function App() {
   
   return (
     <div className="App">
-      <h1>Exercício 4 - Filmes</h1>
+      <h1>Exercício 3 - Filmes</h1>
       <MoviesList />
     </div>
   );
